@@ -9,3 +9,7 @@
 /CreationalPatterns/Prototype/obj
 /CreationalPatterns/FactoryMethod/bin/Debug/net8.0
 /CreationalPatterns/FactoryMethod/obj
+/CreationalPatterns/Builder/bin/Debug/net8.0
+/CreationalPatterns/Builder/obj/Debug/net8.0
+/CreationalPatterns/Builder/obj/Release/net8.0
+/CreationalPatterns/Builder/obj
