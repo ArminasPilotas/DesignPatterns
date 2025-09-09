@@ -5,3 +5,5 @@
 /.vs
 /CreationalPatterns/Singleton/.vs
 /CreationalPatterns/Singleton/Singleton/obj
+/CreationalPatterns/Prototype/bin/Debug/net8.0
+/CreationalPatterns/Prototype/obj
