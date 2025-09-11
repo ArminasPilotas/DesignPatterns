@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Structural Patter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Structural Patterns\Proxy\Proxy.csproj", "{B059E13A-378D-4B7F-9A24-420369F86EAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Structural Patterns\Decorator\Decorator.csproj", "{9453A511-D0DE-4F43-AD71-3E98978AEE43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{B059E13A-378D-4B7F-9A24-420369F86EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B059E13A-378D-4B7F-9A24-420369F86EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B059E13A-378D-4B7F-9A24-420369F86EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9453A511-D0DE-4F43-AD71-3E98978AEE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9453A511-D0DE-4F43-AD71-3E98978AEE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9453A511-D0DE-4F43-AD71-3E98978AEE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9453A511-D0DE-4F43-AD71-3E98978AEE43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
