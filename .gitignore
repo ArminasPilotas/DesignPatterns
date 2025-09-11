@@ -15,3 +15,7 @@
 /CreationalPatterns/Builder/obj
 /Structural Patterns/Bridge/bin/Debug/net8.0
 /Structural Patterns/Bridge/obj
+/Structural Patterns/Proxy/bin/Debug/net8.0
+/Structural Patterns/Proxy/obj/Debug/net8.0
+/Structural Patterns/Proxy/obj/Release/net8.0
+/Structural Patterns/Proxy/obj
