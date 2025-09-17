@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Memento", "Behavioral Patte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Behavioral Patterns\Observer\Observer.csproj", "{04B88058-E8C4-49B4-A90C-21150D30BC2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visitor", "Behavioral Patterns\Visitor\Visitor.csproj", "{EADB007C-72BC-4E32-A400-74266F53276B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{04B88058-E8C4-49B4-A90C-21150D30BC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04B88058-E8C4-49B4-A90C-21150D30BC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04B88058-E8C4-49B4-A90C-21150D30BC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADB007C-72BC-4E32-A400-74266F53276B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADB007C-72BC-4E32-A400-74266F53276B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADB007C-72BC-4E32-A400-74266F53276B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADB007C-72BC-4E32-A400-74266F53276B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
